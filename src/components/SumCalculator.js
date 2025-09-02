@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-export default function SumcalculatorOriginal() {
+export default function SumCalculator() {
   const [numbers, setNumbers] = useState([]);
   const [sum, setSum] = useState(0);
 
